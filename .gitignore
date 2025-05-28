@@ -1,0 +1,8 @@
+/.venv
+/artifacts
+/output
+/parquet_analysis_demo.egg-info
+/parquet_analysis_demo.py
+/pyproject.toml
+/setup.py
+/uv.lock
